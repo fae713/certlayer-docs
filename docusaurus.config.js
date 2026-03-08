@@ -36,7 +36,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/', // Serve docs at root
-          editUrl: 'https://github.com/certlayer/certlayer-docs/tree/main/',
+          editUrl: 'https://github.com/fae713/certlayer-docs/tree/main/',
         },
         blog: false, // Disable blog
         theme: {
@@ -65,7 +65,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/certlayer',
+            href: 'https://github.com/Kodark220/CERTLAYER',
             label: 'GitHub',
             position: 'right',
           },
@@ -85,14 +85,14 @@ const config = {
           {
             title: 'Community',
             items: [
-              { label: 'Twitter', href: 'https://twitter.com/certlayer' },
-              { label: 'Discord', href: 'https://discord.gg/certlayer' },
+              //{ label: 'Twitter', href: 'https://twitter.com/certlayer' },
+              //{ label: 'Discord', href: 'https://discord.gg/certlayer' },
             ],
           },
           {
             title: 'More',
             items: [
-              { label: 'GitHub', href: 'https://github.com/certlayer' },
+              { label: 'GitHub', href: 'https://github.com/Kodark220/CERTLAYER' },
             ],
           },
         ],
