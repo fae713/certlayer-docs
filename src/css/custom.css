@@ -1,0 +1,27 @@
+/**
+ * CertLayer custom CSS
+ * Overrides default Docusaurus theme variables
+ */
+
+:root {
+  --ifm-color-primary: #6366f1;
+  --ifm-color-primary-dark: #4f52e8;
+  --ifm-color-primary-darker: #4346e4;
+  --ifm-color-primary-darkest: #2a2dd6;
+  --ifm-color-primary-light: #7779f4;
+  --ifm-color-primary-lighter: #8385f5;
+  --ifm-color-primary-lightest: #a5a7f8;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(99, 102, 241, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #818cf8;
+  --ifm-color-primary-dark: #6b77f6;
+  --ifm-color-primary-darker: #606cf5;
+  --ifm-color-primary-darkest: #3a48f2;
+  --ifm-color-primary-light: #97a1fa;
+  --ifm-color-primary-lighter: #a2abfb;
+  --ifm-color-primary-lightest: #c4c9fd;
+  --docusaurus-highlighted-code-line-bg: rgba(129, 140, 248, 0.1);
+}
