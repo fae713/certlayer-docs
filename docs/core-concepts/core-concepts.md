@@ -27,10 +27,10 @@ Commitments include supporting evidence and fulfillment evaluation.
 
 A formal reliability or security case tracked through a defined lifecycle:
 
-1. **Candidate** — incident is submitted and under review
-2. **Challenge Open** — dispute window is active
-3. **Finalized** — incident outcome is confirmed
-4. **Payout Execution** — compensation is distributed
+1. **Candidate**: incident is submitted and under review
+2. **Challenge Open**: dispute window is active
+3. **Finalized**: incident outcome is confirmed
+4. **Payout Execution**: compensation is distributed
 
 ## Event Verification
 
