@@ -17,9 +17,9 @@ CertLayer generates revenue through subscriptions, settlement fees, and access t
 
 The CertLayer economic system has three main goals:
 
-1. **Enable verifiable reliability guarantees** — Protocols maintain compensation pools that can automatically pay users when failures occur.
-2. **Align incentives between protocols and users** — Reliable protocols benefit from better economics and reputation.
-3. **Fund monitoring and enforcement infrastructure** — CertLayer earns revenue through subscriptions and settlement activity.
+1. **Enable verifiable reliability guarantees**: Protocols maintain compensation pools that can automatically pay users when failures occur.
+2. **Align incentives between protocols and users**: Reliable protocols benefit from better economics and reputation.
+3. **Fund monitoring and enforcement infrastructure**: CertLayer earns revenue through subscriptions and settlement activity.
 
 ## Core Economic Components
 
@@ -86,9 +86,9 @@ monthly_cost = S_tier + endpoint_fee + monitoring_fee + (F_settle × payouts_thi
 
 **Example pricing tiers:**
 
-- **Starter** — small protocols and early-stage projects
-- **Growth** — mid-size protocols with active user bases
-- **Enterprise** — large infrastructure providers
+- **Starter**: small protocols and early-stage projects
+- **Growth**: mid-size protocols with active user bases
+- **Enterprise**: large infrastructure providers
 
 Higher tiers typically support more monitoring endpoints and larger compensation pools.
 
@@ -161,6 +161,6 @@ CertLayer includes safeguards to prevent abuse of the incident and dispute syste
 
 CertLayer generates revenue through three primary mechanisms:
 
-1. **Subscription Fees** — Protocols pay monthly fees for monitoring, enforcement, and platform access.
-2. **Settlement Fees** — Small fees are charged on executed compensation payouts.
-3. **Data and Reputation Access** — Advanced reliability data and reputation insights may be available through premium API access.
+1. **Subscription Fees**: Protocols pay monthly fees for monitoring, enforcement, and platform access.
+2. **Settlement Fees**: Small fees are charged on executed compensation payouts.
+3. **Data and Reputation Access**: Advanced reliability data and reputation insights may be available through premium API access.
