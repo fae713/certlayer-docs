@@ -77,7 +77,7 @@ const config = {
           {
             title: 'Docs',
             items: [
-              { label: 'What is CertLayer?', to: '/introduction/what-is-certlayer' },
+              { label: 'What is CertLayer?', to: '/' },
               { label: 'Architecture', to: '/architecture/architecture-overview' },
               { label: 'Developers', to: '/developers/developer-overview' },
             ],
