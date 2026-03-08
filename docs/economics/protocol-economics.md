@@ -116,7 +116,7 @@ user_payout = min(user_cap, base_comp + (downtime_hours × hourly_rate))
 P_total = sum(all user_payouts)
 ```
 
-**Pro-Rata Distribution** — If the total payout exceeds the compensation pool (`P_total > C_pool`), payouts are distributed proportionally:
+**Pro-Rata Distribution**: If the total payout exceeds the compensation pool (`P_total > C_pool`), payouts are distributed proportionally:
 
 ```
 final_user_payout = user_payout × (C_pool / P_total)
