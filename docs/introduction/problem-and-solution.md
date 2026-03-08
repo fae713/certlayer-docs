@@ -42,8 +42,8 @@ Security monitoring tools are often fragmented across dashboards, bots, and manu
 
 CERTLAYER provides a unified accountability layer for two critical operational realities in Web3:
 
-- **Reliability incidents** — such as downtime, SLA breaches, or missed commitments
-- **Security incidents** — including exploit detection, risk escalation, and emergency pause coordination
+- **Reliability incidents:** such as downtime, SLA breaches, or missed commitments
+- **Security incidents:** including exploit detection, risk escalation, and emergency pause coordination
 
 CERTLAYER combines these functions into a single system where:
 
@@ -54,4 +54,4 @@ CERTLAYER combines these functions into a single system where:
 - Security response can be coordinated rapidly
 - Operational reliability feeds into public reputation
 
-The vision of CertLayer is to become the reliability layer for Web3 infrastructure — enabling protocols to transparently prove uptime, enforce guarantees, and automatically protect users, as well as the security standard for Web3 infrastructure.
+The vision of CertLayer is to become the reliability layer for Web3 infrastructure, enabling protocols to transparently prove uptime, enforce guarantees, and automatically protect users, as well as the security standard for Web3 infrastructure.
